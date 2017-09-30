@@ -5,8 +5,8 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
 	  "src": "Construct2",
       "projectGuid": "00000000-0000-0000-0000-000000000000",
-	  "lastModifiedDate": 1506788474000,
-      "creationDate": 1506788474000
+	  "lastModifiedDate": 1506789817000,
+      "creationDate": 1506789817000
     },
     "sourceDirectory": "www",
     "startFile": "index.html",
@@ -67,8 +67,8 @@
           "android-targetSdkVersion": "21",
           "android-installLocation": "auto",
 		  "android-signed": true,
-		  "Fullscreen": false,
-		  "Orientation": "default"
+		  "Fullscreen": true,
+		  "Orientation": "landscape"
         },
         "isActive_": true,
         "appName_": "Pixel Jump",
@@ -91,7 +91,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "0.0.3",
+        "appVersion_": "0.0.4",
         "appVersionCode_": "1"
       },
       "iOS": {
@@ -102,8 +102,8 @@
         "preferences_": {
           "ios-target": "8.0",
           "ios-configuration": "adhoc",
-		  "Fullscreen": false,
-		  "Orientation": "default"
+		  "Fullscreen": true,
+		  "Orientation": "landscape"
         },
         "isActive_": true,
         "appName_": "Pixel Jump",
@@ -127,7 +127,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "0.0.3",
+        "appVersion_": "0.0.4",
         "appVersionCode_": "1"
       },
       "Windows8": {
@@ -138,8 +138,8 @@
         "preferences_": {
           "windows-publisher-display-name": "",
           "windows-publisher-id": "",
-		  "Fullscreen": false,
-		  "Orientation": "default"
+		  "Fullscreen": true,
+		  "Orientation": "landscape"
         },
         "isActive_": true,
         "appName_": "Pixel Jump",
@@ -161,7 +161,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "0.0.3",
+        "appVersion_": "0.0.4",
         "appVersionCode_": "1"
       },
       "WebApp": {
@@ -172,7 +172,7 @@
         "isActive_": false,
         "appName_": "Pixel Jump",
         "appID_": "com.quench.pixeljump",
-        "appVersion_": "0.0.3"
+        "appVersion_": "0.0.4"
       },
       "Chrome": {
         "platform_": "chromeos",
@@ -182,7 +182,7 @@
         "isActive_": false,
         "appName_": "Pixel Jump",
         "appID_": "com.quench.pixeljump",
-        "appVersion_": "0.0.3"
+        "appVersion_": "0.0.4"
       }
     }
   }
