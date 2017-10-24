@@ -5,8 +5,8 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
 	  "src": "Construct2",
       "projectGuid": "00000000-0000-0000-0000-000000000000",
-	  "lastModifiedDate": 1507751144000,
-      "creationDate": 1507751144000
+	  "lastModifiedDate": 1508869050000,
+      "creationDate": 1508869050000
     },
     "sourceDirectory": "www",
     "startFile": "index.html",
@@ -91,7 +91,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "0.0.11",
+        "appVersion_": "0.1.0a",
         "appVersionCode_": "1"
       },
       "iOS": {
@@ -127,7 +127,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "0.0.11",
+        "appVersion_": "0.1.0a",
         "appVersionCode_": "1"
       },
       "Windows8": {
@@ -161,7 +161,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "0.0.11",
+        "appVersion_": "0.1.0a",
         "appVersionCode_": "1"
       },
       "WebApp": {
@@ -172,7 +172,7 @@
         "isActive_": false,
         "appName_": "Pixel Jump",
         "appID_": "com.quench.pixeljump",
-        "appVersion_": "0.0.11"
+        "appVersion_": "0.1.0a"
       },
       "Chrome": {
         "platform_": "chromeos",
@@ -182,7 +182,7 @@
         "isActive_": false,
         "appName_": "Pixel Jump",
         "appID_": "com.quench.pixeljump",
-        "appVersion_": "0.0.11"
+        "appVersion_": "0.1.0a"
       }
     }
   }
