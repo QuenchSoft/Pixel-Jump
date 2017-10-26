@@ -5,8 +5,8 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
 	  "src": "Construct2",
       "projectGuid": "00000000-0000-0000-0000-000000000000",
-	  "lastModifiedDate": 1508957005000,
-      "creationDate": 1508957005000
+	  "lastModifiedDate": 1509046119000,
+      "creationDate": 1509046119000
     },
     "sourceDirectory": "www",
     "startFile": "index.html",
@@ -32,6 +32,12 @@
 		},
 		{
 			"id": "cordova-plugin-inappbrowser",
+			"originType": "cordova.io",
+			"version": "?",
+			"selectedState": "Included"
+		},
+		{
+			"id": "cordova-plugin-media",
 			"originType": "cordova.io",
 			"version": "?",
 			"selectedState": "Included"
@@ -91,7 +97,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "0.1.0b",
+        "appVersion_": "0.1.1",
         "appVersionCode_": "1"
       },
       "iOS": {
@@ -127,7 +133,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "0.1.0b",
+        "appVersion_": "0.1.1",
         "appVersionCode_": "1"
       },
       "Windows8": {
@@ -161,7 +167,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "0.1.0b",
+        "appVersion_": "0.1.1",
         "appVersionCode_": "1"
       },
       "WebApp": {
@@ -172,7 +178,7 @@
         "isActive_": false,
         "appName_": "Pixel Jump",
         "appID_": "com.quench.pixeljump",
-        "appVersion_": "0.1.0b"
+        "appVersion_": "0.1.1"
       },
       "Chrome": {
         "platform_": "chromeos",
@@ -182,7 +188,7 @@
         "isActive_": false,
         "appName_": "Pixel Jump",
         "appID_": "com.quench.pixeljump",
-        "appVersion_": "0.1.0b"
+        "appVersion_": "0.1.1"
       }
     }
   }
