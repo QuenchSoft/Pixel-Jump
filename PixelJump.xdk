@@ -5,25 +5,13 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
 	  "src": "Construct2",
       "projectGuid": "00000000-0000-0000-0000-000000000000",
-	  "lastModifiedDate": 1515076942000,
-      "creationDate": 1515076942000
+	  "lastModifiedDate": 1515077349000,
+      "creationDate": 1515077349000
     },
     "sourceDirectory": "www",
     "startFile": "index.html",
     "cordovaPluginsDirectory": "plugins",
     "cordovaPlugins": [
-		{
-			"id": "cc.fovea.cordova.purchase",
-			"originType": "cordova.io",
-			"version": "?",
-			"selectedState": "Included"
-		},
-		{
-			"id": "com.mcm.plugins.androidinappbilling",
-			"originType": "cordova.io",
-			"version": "?",
-			"selectedState": "Included"
-		},
 		{
 			"id": "cordova-plugin-device",
 			"originType": "cordova.io",

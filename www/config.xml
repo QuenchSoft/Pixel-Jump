@@ -27,8 +27,6 @@
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	<access origin="*" />
 
-	<plugin name="cc.fovea.cordova.purchase" source="npm" />
-	<plugin name="com.mcm.plugins.androidinappbilling" source="npm" />
 	<plugin name="cordova-plugin-inappbrowser" source="npm" />
 
 	<!-- Optional splash screen image, e.g.: -->
